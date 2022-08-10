@@ -1,4 +1,4 @@
-# E-Commerece Complete Application
+# E-Commerce Complete Application
 
 A new Flutter project.
 
